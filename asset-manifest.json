@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pclaire1/Bounty/static/css/main.3f49c61c.css",
+    "main.js": "/pclaire1/Bounty/static/js/main.29232cdd.js",
+    "static/js/787.11e20981.chunk.js": "/pclaire1/Bounty/static/js/787.11e20981.chunk.js",
+    "static/media/background.jpg": "/pclaire1/Bounty/static/media/background.d0db2660040d714330bb.jpg",
+    "index.html": "/pclaire1/Bounty/index.html",
+    "main.3f49c61c.css.map": "/pclaire1/Bounty/static/css/main.3f49c61c.css.map",
+    "main.29232cdd.js.map": "/pclaire1/Bounty/static/js/main.29232cdd.js.map",
+    "787.11e20981.chunk.js.map": "/pclaire1/Bounty/static/js/787.11e20981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f49c61c.css",
+    "static/js/main.29232cdd.js"
+  ]
+}
