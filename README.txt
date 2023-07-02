@@ -6,7 +6,8 @@ random quotes, the widget stimulates creativity, promotes positive thinking, and
 To use the widget, users simply need to add it to their planner dashboard. 
 Upon clicking the widget, a random quote is generated, accompanied by the name of the author. 
 Users can click the widget repeatedly to discover new quotes and gain fresh perspectives. 
-The widget's interactive nature makes it engaging and enjoyable for users, allowing them to explore various quotes that resonate with them.
+The widget's interactive nature makes it engaging and enjoyable for users, 
+allowing them to explore various quotes that resonate with them.
 
 With its aesthetically pleasing design and user-friendly functionality, 
 the custom-made "Random Quote" widget seamlessly integrates into the planner app. 
